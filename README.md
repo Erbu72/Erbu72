@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erbu72
-- 👀 I’m interested in Cmoud services and apps.
+- 👀 I’m interested in Cloud services and apps.
 - 🌱 I’m currently learning Microsoft Azure.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
